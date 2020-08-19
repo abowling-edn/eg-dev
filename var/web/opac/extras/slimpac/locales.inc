@@ -1,0 +1,11 @@
+<select name='locale'>
+  <option value='ar-JO'>Arabic (Jordan)</option>
+  <option value='hy-AM'>Armenian</option>
+  <option value='cs-CZ'>Czech</option>
+  <option value='en-CA'>English (Canada)</option>
+  <option value='en-US'>English (US)</option>
+  <option value='fi-FI'>Finnish</option>
+  <option value='fr-CA'>French (Canada)</option>
+  <option value='ru-RU'>Russian</option>
+  <option value='es-ES'>Spanish</option>
+</select>
